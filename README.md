@@ -17,8 +17,9 @@ npm run build
 
 
 <h2>ThreeJS Portfolio</h2>
-<img src="https://github.com/Markphilbert/threeJS_Portfolio/assets/84154978/338e30c7-1c09-4b7a-9677-e0c3b724d5c2" >
 
+
+<img src="https://github.com/Markphilbert/threeJS_Portfolio/assets/84154978/af69aaf9-10a1-4f27-9bdb-e19d0c4dbb0d" >
 
 
 A portfolio website created using ThreeJS and React.
