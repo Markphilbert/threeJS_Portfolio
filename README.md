@@ -1,4 +1,4 @@
-# ShoesOverflow
+# ThreeJS_Portfolio
 
 ## Project setup
 ```
