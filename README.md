@@ -50,7 +50,4 @@ Through creating this project I learned several React and ThreeJS topics. React 
 <ul>
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
 <li><a href="https://github.com/Markphilbert/ShoesOverflow">ShoesOverflow</a></li>
-<li><a href="https://github.com/Markphilbert/HTML-Email">HTML Email Clone</a></li>
-<li><a href="https://github.com/Markphilbert/megamanApiApp">Megaman API App</a></li>
-<li><a href="https://github.com/Markphilbert/bucketlist">Bucketlist CRUD App</a></li>
 </ul>
