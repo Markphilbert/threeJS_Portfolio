@@ -22,7 +22,7 @@ npm run build
 A portfolio website created using ThreeJS and React.
 
 This project is hosted on Netlify.
-Link: https://shoesoverflow.netlify.app/
+Link: https://markphilbert.netlify.app
 
 <h3>Description</h3>
 
