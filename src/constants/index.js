@@ -37,11 +37,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Software Developer",
     icon: web,
   },
   {
-    title: "React / Vue Developer",
+    title: "Javascript Developer",
     icon: mobile,
   },
   {
@@ -63,10 +63,6 @@ const technologies = [
   {
     name: "JavaScript",
     icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
   },
   {
     name: "Python",
@@ -116,10 +112,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2021 - Present",
     points: [
-      "Design and built insurance packages from concept to completion.",
-      "Collaborated with teams of experienced developers to build and maintain provided services using best practices.",
-      "Worked to troubleshoot and bring ideas to life through limitations due to third-party services.",
-      "Resolved complex problems and coding challenges.",
+      "Strong development skills and software fundamentals when building insurance-based applications.",
+      "Experience working with large native code bases with significant complexity.",
+      "Collaborated and worked with teams of experienced developers in a team environment to build insurance-based applications using best practices.",
+      "Developed, tested, shipped and supported products used by thousands of users daily.",
     ],
   },
 ];
