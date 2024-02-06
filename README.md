@@ -1,53 +1,20 @@
-# ThreeJS_Portfolio
+# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
+![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
 
-## Project setup
-```
-npm install
-```
+## Introduction
+The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
+ 
+In this course, you'll learn the following:
+- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
+- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
+- TailwindCSS - a popular utility-first CSS styling framework
+- Framer Motion - the most popular library used to bring your React website to life with animations
+You'll also learn how to:
+- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
+- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
+- Implement sending emails through a form on the website
+- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
-
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-
-<h2>ThreeJS Portfolio</h2>
-
-
-<img src="https://github.com/Markphilbert/threeJS_Portfolio/assets/84154978/af69aaf9-10a1-4f27-9bdb-e19d0c4dbb0d" >
-
-
-A portfolio website created using ThreeJS and React.
-
-This project is hosted on Netlify.
-Link: https://markphilbert.netlify.app
-
-<h3>Description</h3>
-
-This was created using React for the sole purpose of picking up and learning React, ThreeJS and TailwindCSS.
-
-<h3>How It's Made:</h3>
-
-This Project was created with: 
-<ul>
-<li>React</li>
-<li>ThreeJS</li>
-<li>JavaScript</li>
-<li>TailwindCSS</li>
-</ul>
-
-<h3>Optimizations</h3>
-
-Currently I have no plans to further optimize this site. It was initially created to replace my old portfolio but I thought I may as well use it to learn new skills. I also considered replacing some of the 3D models but had trouble finding ones I liked.  
-
-<h3>What I Learned</h3>
-
-Through creating this project I learned several React and ThreeJS topics. React was not too different from VUE so it was straightforward to learn, however ThreeJS and using 3D models in general was a big learning curve. There were several times I had to troubleshoot to get the 3D elements to do what I needed and wanted them to do. I also dived deeper into TailwindCSS which is something I've used before and studied but never had a chance to build anything relevant with.
-
-<h3>Other Projects</h3>
-<ul>
-<li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
-<li><a href="https://github.com/Markphilbert/ShoesOverflow">ShoesOverflow</a></li>
-</ul>
+## Want to land your dream programming job in 3 - 6 months?
+⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
+Become a Software Engineer. Guaranteed.
