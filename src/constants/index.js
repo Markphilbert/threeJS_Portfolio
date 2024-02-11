@@ -112,10 +112,13 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2021 - Present",
     points: [
-      "Strong development skills and software fundamentals when building insurance-based applications.",
+      "Utilized JavaScript, HTML and CSS to enhance front-end functionality, adhering to best practices and spearheading effective release management.",
+      "Use of strong development skills and software fundamentals when building insurance based applications.",
       "Experience working with large native code bases with significant complexity.",
-      "Collaborated and worked with teams of experienced developers in a team environment to build insurance-based applications using best practices.",
-      "Developed, tested, shipped and supported products used by thousands of users daily.",
+      "Collaborated and worked with a team of experienced developers in a team environment to build insurance-based applications using best practices.",
+      "Developed, tested, and supported products used by thousands of users daily.",
+      "Effectively communicated with technical and non- technical team members to ensure a shared understanding of new products and features.",
+      "Maintained confidentiality of system technologies and customer data to uphold security and protect intellectual property.",
     ],
   },
 ];
