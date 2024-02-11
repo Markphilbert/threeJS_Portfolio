@@ -1,6 +1,3 @@
-<<<<<<< Updated_Resume
-
-=======
 # ThreeJS Portfolio
 
 ## Project setup
@@ -56,4 +53,3 @@ Through creating this project I learned several React topics as well as a lot ab
 <li><a href="https://shoesoverflow.netlify.app/">ShoesOverflow</a></li>  
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
 </ul>
->>>>>>> main
