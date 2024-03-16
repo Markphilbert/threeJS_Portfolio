@@ -26,6 +26,7 @@ import forward from "./tech/forward.png";
 
 import shoes from "./tech/shoes.gif";
 import numinex from "./tech/numinex.gif";
+import maze from "./tech/maze.gif";
 
 export {
   logo,
@@ -53,4 +54,5 @@ export {
   numinex,
   netlify,
   forward,
+  maze,
 };

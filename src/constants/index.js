@@ -4,7 +4,6 @@ import {
   python,
   web,
   javascript,
-  typescript,
   html,
   css,
   reactjs,
@@ -18,6 +17,7 @@ import {
   shoes,
   numinex,
   threejs,
+  maze,
 } from "../assets";
 
 export const navLinks = [
@@ -153,25 +153,25 @@ const testimonials = [
 const projects = [
   
   {
-    name: "ShoesOverflow",
+    name: "Maze Solver",
     description:
-      "A subscription based shoe store created using Vue3 and Vue Router.",
+      "A program that builds a maze then is able to solve it.",
     tags: [
       {
-        name: "vuerouter",
+        name: "python",
         color: "yellow-text-gradient",
       },
       {
-        name: "vue3",
+        name: "oop",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "dsa",
         color: "pink-text-gradient",
       },
     ],
-    image: shoes,
-    source_code_link: "https://github.com/Markphilbert/ShoesOverflow",
+    image: maze,
+    source_code_link: "https://github.com/Markphilbert/Maze_Solver",
   },
   {
     name: "Numinex App",
@@ -190,9 +190,32 @@ const projects = [
         name: "javascript",
         color: "pink-text-gradient",
       },
+      
     ],
     image: numinex,
     source_code_link: "https://github.com/Markphilbert/numinix",
+  },
+  {
+    name: "ShoesOverflow",
+    description:
+      "A subscription based shoe store created using Vue3 and Vue Router.",
+    tags: [
+      {
+        name: "vuerouter",
+        color: "yellow-text-gradient",
+      },
+      {
+        name: "vue3",
+        color: "green-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "pink-text-gradient",
+      },
+      
+    ],
+    image: shoes,
+    source_code_link: "https://github.com/Markphilbert/ShoesOverflow",
   },
 ];
 

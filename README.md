@@ -50,7 +50,6 @@ Through creating this project I learned several React topics as well as a lot ab
 
 <h3>Other Projects</h3>
 <ul>
-<li><a href="https://github.com/Markphilbert/Maze_Solver">Maze Solver</a></li>
 <li><a href="https://shoesoverflow.netlify.app/">ShoesOverflow</a></li>  
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
 </ul>
