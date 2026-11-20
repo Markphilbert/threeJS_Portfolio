@@ -14,6 +14,7 @@ import {
   figma,
   vue,
   forward,
+  scale,
   shoes,
   numinex,
   threejs,
@@ -88,11 +89,6 @@ const technologies = [
     name: "Node JS",
     icon: nodejs,
   },
-  
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
   {
     name: "github",
     icon: githubtwo,
@@ -112,13 +108,25 @@ const experiences = [
     iconBg: "#383E56",
     date: "November 2021 - Present",
     points: [
-      "Utilized JavaScript, HTML and CSS to enhance front-end functionality, adhering to best practices and spearheading effective release management.",
-      "Use of strong development skills and software fundamentals when building insurance based applications.",
-      "Experience working with large native code bases with significant complexity.",
-      "Collaborated and worked with a team of experienced developers in a team environment to build insurance-based applications using best practices.",
-      "Developed, tested, and supported products used by thousands of users daily.",
-      "Effectively communicated with technical and non- technical team members to ensure a shared understanding of new products and features.",
-      "Maintained confidentiality of system technologies and customer data to uphold security and protect intellectual property.",
+      "Build and enhance insurance applications using JavaScript, HTML and CSS, applying strong development fundamentals and best practices in a large, complex native codebase.",
+      "Develop, test and support products used by thousands of users daily, collaborating with a team of experienced developers.",
+      "Code-review the majority of all JavaScript pull requests.",
+      "Develop and maintain complex Excel formulas to replicate website policy calculations for offline use; provide manual Excel calculation methods during system downtimes to ensure continuity of operations.",
+      "Implement improvements promptly, directly boosting sales and smoothing work processes for colleagues; communicate with technical and non-technical team members on new products and features.",
+      "Maintain confidentiality of system technologies and customer data; excel in a fast-paced, rapidly growing startup, meeting tight deadlines through adaptability, creativity and problem-solving.",
+    ],
+  },
+  {
+    title: "Python Developer",
+    company_name: "Scale AI",
+    icon: scale,
+    iconBg: "#383E56",
+    date: "February 2024 - November 2024",
+    points: [
+      "Developed and evaluated prompts for large language models (LLMs), assessing response accuracy and SQL query execution to ensure correct database interactions and data retrieval.",
+      "Analyzed LLM performance and refined prompts to improve response accuracy and data access efficiency; organized information from Excel spreadsheets and data tables for model training.",
+      "Reviewed, debugged and corrected Python code to improve functionality, efficiency and adherence to programming best practices and coding standards.",
+      "Created Python exercises and technical prompts to assess programming proficiency, evaluating generated solutions and providing feedback to improve code quality and problem-solving.",
     ],
   },
 ];
