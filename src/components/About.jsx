@@ -47,9 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[19px] max-w-3xl leading-[30px]'
       >
-        Experienced software developer with a specialization in JavaScript and Python, focusing on backend 
-        development. Committed to continuously learning new technologies to develop impactful 
-        solutions through programming.
+        Intermediate Frontend Developer with 5+ years of experience specializing in JavaScript and Python.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

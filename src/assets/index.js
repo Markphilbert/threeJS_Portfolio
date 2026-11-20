@@ -21,7 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import sass from "./tech/sass.png";
-
+import scale from "./tech/scale.png";
 import forward from "./tech/forward.png";
 
 import shoes from "./tech/shoes.gif";
@@ -54,5 +54,6 @@ export {
   numinex,
   netlify,
   forward,
+  scale,
   maze,
 };
