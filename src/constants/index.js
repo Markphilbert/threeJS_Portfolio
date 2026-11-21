@@ -38,15 +38,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Software Developer",
+    title: "JavaScript, HTML, CSS",
     icon: web,
   },
   {
-    title: "Javascript Developer",
+    title: "Python, SQL",
     icon: mobile,
   },
   {
-    title: "Python Developer",
+    title: "React, Vue",
     icon: backend,
   },
   
@@ -182,7 +182,7 @@ const projects = [
     source_code_link: "https://github.com/Markphilbert/Maze_Solver",
   },
   {
-    name: "Numinex App",
+    name: "Numinix App",
     description:
       "A Project built for Numinix used to interview my skills.",
     tags: [
